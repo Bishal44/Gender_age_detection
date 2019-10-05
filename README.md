@@ -8,7 +8,7 @@ https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification
 <img width=1000 src="screenshot/detected_img1.png"/>
 
 <h2>Test case 2 </h2>
-<img width=1000 src="screenshot/detected_imgage2.png"/>
+<img width=1000 src="screenshot/detected_image2.png"/>
 
 <h2>Test case 3 </h2>
-<img width=1000 src="screenshot/detected_imgage3.png"/>
+<img width=1000 src="screenshot/detected_image3.png"/>
